@@ -1,1 +1,2 @@
 - kmeans or something to find classes of texts
+- tfidf
