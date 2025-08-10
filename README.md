@@ -15,7 +15,7 @@ The dataset preprocessing was as follows (in sequence):
 - Trending News Agent that provides information about some of the latest and hotest topics
 
 #### Goal
- - The goal of the agent is the keep the user up to date with the latest and hotest topic to help them stay up to date always
+ - The goal of the agent is the keep the user up to date with the latest and hottest topic to help them stay up to date always
 
 #### Tools
 - Any news article is first preprocessed using the utility function `preprocess_text` to tokenize, remove noise (stop words) and then lemmatize the text
